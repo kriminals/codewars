@@ -1,1 +1,2 @@
 # codewars
+Solved Kata challenges.
